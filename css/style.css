@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+}
+
+footer {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-image: url("../img/Stage.jpg");
+  background-attachment: fixed;
+}
+
+.glyphicon, .fa {
+    font-size: 20px;
+    padding-left: 1em;
+}
+
+.wrap {
+  min-height: calc(100vh - 50px);
+}
+
+.wrap h1, .loading {
+  color: white;
+}
